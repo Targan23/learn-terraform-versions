@@ -10,7 +10,12 @@ Follow along with the tutorials for [Terraform Open Source](https://developer.ha
 - The lock file keeps provider versions consistent
 
 ## My notes
-- TODO: add your notes here
+- `required_version` pins the Terraform version
+- `required_providers` pins provider versions
+- The lock file keeps provider versions consistent across machines
 
 ## My notes
-- TODO: add your notes here
+- `required_version` pins the Terraform version
+- `required_providers` pins provider versions
+- The lock file keeps provider versions consistent across machines
+
